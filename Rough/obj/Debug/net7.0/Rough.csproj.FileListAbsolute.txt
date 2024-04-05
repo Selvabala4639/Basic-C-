@@ -1,0 +1,15 @@
+D:\C# programs\Assignments\Rough\bin\Debug\net7.0\Rough.exe
+D:\C# programs\Assignments\Rough\bin\Debug\net7.0\Rough.deps.json
+D:\C# programs\Assignments\Rough\bin\Debug\net7.0\Rough.runtimeconfig.json
+D:\C# programs\Assignments\Rough\bin\Debug\net7.0\Rough.dll
+D:\C# programs\Assignments\Rough\bin\Debug\net7.0\Rough.pdb
+D:\C# programs\Assignments\Rough\obj\Debug\net7.0\Rough.csproj.AssemblyReference.cache
+D:\C# programs\Assignments\Rough\obj\Debug\net7.0\Rough.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# programs\Assignments\Rough\obj\Debug\net7.0\Rough.AssemblyInfoInputs.cache
+D:\C# programs\Assignments\Rough\obj\Debug\net7.0\Rough.AssemblyInfo.cs
+D:\C# programs\Assignments\Rough\obj\Debug\net7.0\Rough.csproj.CoreCompileInputs.cache
+D:\C# programs\Assignments\Rough\obj\Debug\net7.0\Rough.dll
+D:\C# programs\Assignments\Rough\obj\Debug\net7.0\refint\Rough.dll
+D:\C# programs\Assignments\Rough\obj\Debug\net7.0\Rough.pdb
+D:\C# programs\Assignments\Rough\obj\Debug\net7.0\Rough.genruntimeconfig.cache
+D:\C# programs\Assignments\Rough\obj\Debug\net7.0\ref\Rough.dll

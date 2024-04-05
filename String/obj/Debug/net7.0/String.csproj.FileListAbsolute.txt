@@ -1,0 +1,15 @@
+D:\C# programs\Assignments\String\bin\Debug\net7.0\String.exe
+D:\C# programs\Assignments\String\bin\Debug\net7.0\String.deps.json
+D:\C# programs\Assignments\String\bin\Debug\net7.0\String.runtimeconfig.json
+D:\C# programs\Assignments\String\bin\Debug\net7.0\String.dll
+D:\C# programs\Assignments\String\bin\Debug\net7.0\String.pdb
+D:\C# programs\Assignments\String\obj\Debug\net7.0\String.csproj.AssemblyReference.cache
+D:\C# programs\Assignments\String\obj\Debug\net7.0\String.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# programs\Assignments\String\obj\Debug\net7.0\String.AssemblyInfoInputs.cache
+D:\C# programs\Assignments\String\obj\Debug\net7.0\String.AssemblyInfo.cs
+D:\C# programs\Assignments\String\obj\Debug\net7.0\String.csproj.CoreCompileInputs.cache
+D:\C# programs\Assignments\String\obj\Debug\net7.0\String.dll
+D:\C# programs\Assignments\String\obj\Debug\net7.0\refint\String.dll
+D:\C# programs\Assignments\String\obj\Debug\net7.0\String.pdb
+D:\C# programs\Assignments\String\obj\Debug\net7.0\String.genruntimeconfig.cache
+D:\C# programs\Assignments\String\obj\Debug\net7.0\ref\String.dll

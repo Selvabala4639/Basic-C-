@@ -1,0 +1,15 @@
+D:\C# programs\Assignments\WhileLoop\bin\Debug\net7.0\WhileLoop.exe
+D:\C# programs\Assignments\WhileLoop\bin\Debug\net7.0\WhileLoop.deps.json
+D:\C# programs\Assignments\WhileLoop\bin\Debug\net7.0\WhileLoop.runtimeconfig.json
+D:\C# programs\Assignments\WhileLoop\bin\Debug\net7.0\WhileLoop.dll
+D:\C# programs\Assignments\WhileLoop\bin\Debug\net7.0\WhileLoop.pdb
+D:\C# programs\Assignments\WhileLoop\obj\Debug\net7.0\WhileLoop.csproj.AssemblyReference.cache
+D:\C# programs\Assignments\WhileLoop\obj\Debug\net7.0\WhileLoop.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# programs\Assignments\WhileLoop\obj\Debug\net7.0\WhileLoop.AssemblyInfoInputs.cache
+D:\C# programs\Assignments\WhileLoop\obj\Debug\net7.0\WhileLoop.AssemblyInfo.cs
+D:\C# programs\Assignments\WhileLoop\obj\Debug\net7.0\WhileLoop.csproj.CoreCompileInputs.cache
+D:\C# programs\Assignments\WhileLoop\obj\Debug\net7.0\WhileLoop.dll
+D:\C# programs\Assignments\WhileLoop\obj\Debug\net7.0\refint\WhileLoop.dll
+D:\C# programs\Assignments\WhileLoop\obj\Debug\net7.0\WhileLoop.pdb
+D:\C# programs\Assignments\WhileLoop\obj\Debug\net7.0\WhileLoop.genruntimeconfig.cache
+D:\C# programs\Assignments\WhileLoop\obj\Debug\net7.0\ref\WhileLoop.dll

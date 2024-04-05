@@ -1,0 +1,15 @@
+D:\C# programs\Assignment\IfCondition\obj\Debug\net7.0\IfCondition.csproj.AssemblyReference.cache
+D:\C# programs\Assignment\IfCondition\obj\Debug\net7.0\IfCondition.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# programs\Assignment\IfCondition\obj\Debug\net7.0\IfCondition.AssemblyInfoInputs.cache
+D:\C# programs\Assignment\IfCondition\obj\Debug\net7.0\IfCondition.AssemblyInfo.cs
+D:\C# programs\Assignment\IfCondition\obj\Debug\net7.0\IfCondition.csproj.CoreCompileInputs.cache
+D:\C# programs\Assignment\IfCondition\bin\Debug\net7.0\IfCondition.exe
+D:\C# programs\Assignment\IfCondition\bin\Debug\net7.0\IfCondition.deps.json
+D:\C# programs\Assignment\IfCondition\bin\Debug\net7.0\IfCondition.runtimeconfig.json
+D:\C# programs\Assignment\IfCondition\bin\Debug\net7.0\IfCondition.dll
+D:\C# programs\Assignment\IfCondition\bin\Debug\net7.0\IfCondition.pdb
+D:\C# programs\Assignment\IfCondition\obj\Debug\net7.0\IfCondition.dll
+D:\C# programs\Assignment\IfCondition\obj\Debug\net7.0\refint\IfCondition.dll
+D:\C# programs\Assignment\IfCondition\obj\Debug\net7.0\IfCondition.pdb
+D:\C# programs\Assignment\IfCondition\obj\Debug\net7.0\IfCondition.genruntimeconfig.cache
+D:\C# programs\Assignment\IfCondition\obj\Debug\net7.0\ref\IfCondition.dll

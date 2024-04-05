@@ -1,0 +1,15 @@
+D:\C# programs\Assignments\MethodPractice\bin\Debug\net7.0\MethodPractice.exe
+D:\C# programs\Assignments\MethodPractice\bin\Debug\net7.0\MethodPractice.deps.json
+D:\C# programs\Assignments\MethodPractice\bin\Debug\net7.0\MethodPractice.runtimeconfig.json
+D:\C# programs\Assignments\MethodPractice\bin\Debug\net7.0\MethodPractice.dll
+D:\C# programs\Assignments\MethodPractice\bin\Debug\net7.0\MethodPractice.pdb
+D:\C# programs\Assignments\MethodPractice\obj\Debug\net7.0\MethodPractice.csproj.AssemblyReference.cache
+D:\C# programs\Assignments\MethodPractice\obj\Debug\net7.0\MethodPractice.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# programs\Assignments\MethodPractice\obj\Debug\net7.0\MethodPractice.AssemblyInfoInputs.cache
+D:\C# programs\Assignments\MethodPractice\obj\Debug\net7.0\MethodPractice.AssemblyInfo.cs
+D:\C# programs\Assignments\MethodPractice\obj\Debug\net7.0\MethodPractice.csproj.CoreCompileInputs.cache
+D:\C# programs\Assignments\MethodPractice\obj\Debug\net7.0\MethodPractice.dll
+D:\C# programs\Assignments\MethodPractice\obj\Debug\net7.0\refint\MethodPractice.dll
+D:\C# programs\Assignments\MethodPractice\obj\Debug\net7.0\MethodPractice.pdb
+D:\C# programs\Assignments\MethodPractice\obj\Debug\net7.0\MethodPractice.genruntimeconfig.cache
+D:\C# programs\Assignments\MethodPractice\obj\Debug\net7.0\ref\MethodPractice.dll
